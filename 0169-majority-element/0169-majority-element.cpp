@@ -4,18 +4,19 @@ public:
       //sorting
         int n= nums.size();
         sort(nums.begin(),nums.end());
-        int frq = 1, ans = nums[0];
-        for(int i = 1; i<n;i++){
-            if(nums[i]== nums[i-1]){
-                frq++;
-            }
-            else{
-                frq = 1; 
-                ans = nums[i];
-            }
+            return nums[n/2];
+        // int frq = 1, ans = nums[0];
+        // for(int i = 1; i<n;i++){
+        //     if(nums[i]== nums[i-1]){
+        //         frq++;
+        //     }
+        //     else{
+        //         frq = 1; 
+        //         ans = nums[i];
+        //     }
 
-        }
-        return ans;
+        // }
+        // return ans;
 
         //moore's voting algo  O(n)
         // int n= nums.size();
