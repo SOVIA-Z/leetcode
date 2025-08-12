@@ -9,11 +9,11 @@ public:
     }
 
 private:
-    void reverse(vector<int>& nums, int left, int right) {
-        while (left < right) {
-            swap(nums[left], nums[right]);
-            left++;
-            right--;
+    void reverse(vector<int>& nums, int st, int end) {
+        while (st < end) {
+            swap(nums[st], nums[end]);
+            st++;
+            end--;
         }
         
     }
