@@ -2,6 +2,7 @@ class Solution {
 public:
     int romanToInt(string s) {
         int res = 0;
+        // using hash map
         unordered_map<char, int> roman = {
             {'I', 1},
             {'V', 5},
@@ -21,7 +22,7 @@ public:
             }
         }
 
-        return res + roman[s[s.size()]];
+        return res ;
         
         
     }
