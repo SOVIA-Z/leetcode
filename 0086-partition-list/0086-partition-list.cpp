@@ -30,11 +30,8 @@ public:
         smaller->next = grlist->next;
         greater->next = nullptr;
 
-        ListNode* result = slist->next;
-        return result;
-
-
-
-        
+        ListNode* res = slist->next;
+        return res;
+    
     }
 };
