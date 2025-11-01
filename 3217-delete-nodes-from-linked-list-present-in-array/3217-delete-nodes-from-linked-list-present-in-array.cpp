@@ -32,7 +32,5 @@ public:
         ListNode* newHead = temp->next;
         return newHead;
 
-
-
     }
 };
