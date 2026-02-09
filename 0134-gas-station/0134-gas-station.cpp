@@ -14,10 +14,17 @@ public:
             if(currGas < 0){
                 start = i + 1;
                 currGas = 0;
-            }
-        }
+            } 
+            
 
-        return totGas < totCost ? -1 : start;
+        }
+        if(totGas >= totCost){
+            return start;
+        }
+        else
+            return -1;
+
         
-    }
+    }    
+    
 };
