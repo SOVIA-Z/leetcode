@@ -87,4 +87,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SOVIA-Z/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/SOVIA-Z/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
