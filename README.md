@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/SOVIA-Z/leetcode/tree/main/0001-two-sum/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SOVIA-Z/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SOVIA-Z/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/SOVIA-Z/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,8 +74,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SOVIA-Z/leetcode/tree/main/0001-two-sum/) | Easy |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/SOVIA-Z/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/SOVIA-Z/leetcode/tree/main/0009-palindrome-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/SOVIA-Z/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/SOVIA-Z/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 <!---LeetCode Topics End-->
