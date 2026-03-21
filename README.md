@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/SOVIA-Z/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SOVIA-Z/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/SOVIA-Z/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/SOVIA-Z/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/SOVIA-Z/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SOVIA-Z/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SOVIA-Z/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -66,6 +67,7 @@
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SOVIA-Z/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/SOVIA-Z/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/SOVIA-Z/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SOVIA-Z/leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SOVIA-Z/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/SOVIA-Z/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -118,11 +120,13 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/SOVIA-Z/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/SOVIA-Z/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/SOVIA-Z/leetcode/tree/main/0015-3sum/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/SOVIA-Z/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
