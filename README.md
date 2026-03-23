@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/SOVIA-Z/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/SOVIA-Z/leetcode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/SOVIA-Z/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/SOVIA-Z/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/SOVIA-Z/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SOVIA-Z/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/SOVIA-Z/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -137,4 +138,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/SOVIA-Z/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/SOVIA-Z/leetcode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
