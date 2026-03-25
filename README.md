@@ -13,6 +13,7 @@
 | [0189-rotate-array](https://github.com/SOVIA-Z/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/SOVIA-Z/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/SOVIA-Z/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/SOVIA-Z/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/SOVIA-Z/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SOVIA-Z/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SOVIA-Z/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -73,6 +74,7 @@
 | [0287-find-the-duplicate-number](https://github.com/SOVIA-Z/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SOVIA-Z/leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SOVIA-Z/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/SOVIA-Z/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/SOVIA-Z/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SOVIA-Z/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/SOVIA-Z/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
