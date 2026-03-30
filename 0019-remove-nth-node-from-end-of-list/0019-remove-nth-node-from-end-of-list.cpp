@@ -18,25 +18,23 @@ public:
             temp = temp->next;
         }
         
-        int npos = len - n;  // position from start (0-indexed)
+        int npos = len - n;  
 
-        // Case 1: delete head
         if (npos == 0) {
             ListNode* temp = head;
             head = head->next;
             delete temp;
             return head;
         }
-
-        // Case 2: delete at pos
+        // nth pos
         ListNode* prev = head;
         for (int i = 1; i < npos; i++) {
             prev = prev->next;
         }
 
-        ListNode* nDelete = prev->next;
-        prev->next = nDelete->next;
-        delete nDelete;
+        ListNode* nDelNode = prev->next;
+        prev->next = nDelNode->next;
+        delete nDelNode;
 
         return head;
         
