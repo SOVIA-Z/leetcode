@@ -141,6 +141,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/SOVIA-Z/leetcode/tree/main/0015-3sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SOVIA-Z/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0189-rotate-array](https://github.com/SOVIA-Z/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/SOVIA-Z/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Heap (Priority Queue)
@@ -163,4 +164,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SOVIA-Z/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SOVIA-Z/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 <!---LeetCode Topics End-->
