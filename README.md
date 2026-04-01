@@ -165,4 +165,5 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SOVIA-Z/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SOVIA-Z/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0092-reverse-linked-list-ii](https://github.com/SOVIA-Z/leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 <!---LeetCode Topics End-->
