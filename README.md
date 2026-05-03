@@ -11,6 +11,7 @@
 | [0051-n-queens](https://github.com/SOVIA-Z/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/SOVIA-Z/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/SOVIA-Z/leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0090-subsets-ii](https://github.com/SOVIA-Z/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SOVIA-Z/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/SOVIA-Z/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/SOVIA-Z/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -149,6 +150,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0090-subsets-ii](https://github.com/SOVIA-Z/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/SOVIA-Z/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/SOVIA-Z/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Two Pointers
@@ -173,6 +175,7 @@
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/SOVIA-Z/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/SOVIA-Z/leetcode/tree/main/0051-n-queens/) | Hard |
+| [0090-subsets-ii](https://github.com/SOVIA-Z/leetcode/tree/main/0090-subsets-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
