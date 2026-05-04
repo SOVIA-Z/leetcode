@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/SOVIA-Z/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/SOVIA-Z/leetcode/tree/main/0015-3sum/) | Medium |
 | [0039-combination-sum](https://github.com/SOVIA-Z/leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0048-rotate-image](https://github.com/SOVIA-Z/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/SOVIA-Z/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/SOVIA-Z/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/SOVIA-Z/leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -37,6 +38,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/SOVIA-Z/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/SOVIA-Z/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/SOVIA-Z/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SOVIA-Z/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -129,6 +131,7 @@
 | [0002-add-two-numbers](https://github.com/SOVIA-Z/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/SOVIA-Z/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/SOVIA-Z/leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/SOVIA-Z/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/SOVIA-Z/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/SOVIA-Z/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SOVIA-Z/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
