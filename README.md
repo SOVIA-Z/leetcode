@@ -161,6 +161,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/SOVIA-Z/leetcode/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SOVIA-Z/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0061-rotate-list](https://github.com/SOVIA-Z/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/SOVIA-Z/leetcode/tree/main/0086-partition-list/) | Medium |
 | [0189-rotate-array](https://github.com/SOVIA-Z/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/SOVIA-Z/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -189,6 +190,7 @@
 | [0002-add-two-numbers](https://github.com/SOVIA-Z/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SOVIA-Z/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/SOVIA-Z/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0061-rotate-list](https://github.com/SOVIA-Z/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/SOVIA-Z/leetcode/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/SOVIA-Z/leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 <!---LeetCode Topics End-->
