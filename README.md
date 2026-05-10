@@ -27,6 +27,7 @@
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/SOVIA-Z/leetcode/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/SOVIA-Z/leetcode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1861-rotating-the-box](https://github.com/SOVIA-Z/leetcode/tree/main/1861-rotating-the-box/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/SOVIA-Z/leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SOVIA-Z/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/SOVIA-Z/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SOVIA-Z/leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -48,6 +49,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SOVIA-Z/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SOVIA-Z/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1861-rotating-the-box](https://github.com/SOVIA-Z/leetcode/tree/main/1861-rotating-the-box/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/SOVIA-Z/leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/SOVIA-Z/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -68,6 +70,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/SOVIA-Z/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SOVIA-Z/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/SOVIA-Z/leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/SOVIA-Z/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
