@@ -25,6 +25,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SOVIA-Z/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SOVIA-Z/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SOVIA-Z/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/SOVIA-Z/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/SOVIA-Z/leetcode/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/SOVIA-Z/leetcode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1861-rotating-the-box](https://github.com/SOVIA-Z/leetcode/tree/main/1861-rotating-the-box/) | Medium |
@@ -134,6 +135,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/SOVIA-Z/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/SOVIA-Z/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/SOVIA-Z/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/SOVIA-Z/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/SOVIA-Z/leetcode/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/SOVIA-Z/leetcode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SOVIA-Z/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
@@ -203,6 +205,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/SOVIA-Z/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/SOVIA-Z/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
