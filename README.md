@@ -34,6 +34,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/SOVIA-Z/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/SOVIA-Z/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SOVIA-Z/leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/SOVIA-Z/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SOVIA-Z/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SOVIA-Z/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3660-jump-game-ix](https://github.com/SOVIA-Z/leetcode/tree/main/3660-jump-game-ix/) | Medium |
@@ -140,6 +141,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/SOVIA-Z/leetcode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SOVIA-Z/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/SOVIA-Z/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/SOVIA-Z/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SOVIA-Z/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -162,6 +164,7 @@
 | [0049-group-anagrams](https://github.com/SOVIA-Z/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SOVIA-Z/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SOVIA-Z/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/SOVIA-Z/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
