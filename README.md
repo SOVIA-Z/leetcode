@@ -40,6 +40,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SOVIA-Z/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SOVIA-Z/leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/SOVIA-Z/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SOVIA-Z/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SOVIA-Z/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SOVIA-Z/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3660-jump-game-ix](https://github.com/SOVIA-Z/leetcode/tree/main/3660-jump-game-ix/) | Medium |
@@ -68,6 +69,7 @@
 | [0290-word-pattern](https://github.com/SOVIA-Z/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0443-string-compression](https://github.com/SOVIA-Z/leetcode/tree/main/0443-string-compression/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SOVIA-Z/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SOVIA-Z/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +157,7 @@
 | [2540-minimum-common-value](https://github.com/SOVIA-Z/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SOVIA-Z/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/SOVIA-Z/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SOVIA-Z/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SOVIA-Z/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -237,4 +240,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SOVIA-Z/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SOVIA-Z/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 <!---LeetCode Topics End-->
