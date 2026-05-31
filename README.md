@@ -36,6 +36,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/SOVIA-Z/leetcode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1861-rotating-the-box](https://github.com/SOVIA-Z/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/SOVIA-Z/leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2126-destroying-asteroids](https://github.com/SOVIA-Z/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SOVIA-Z/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/SOVIA-Z/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2540-minimum-common-value](https://github.com/SOVIA-Z/leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -55,6 +56,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/SOVIA-Z/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SOVIA-Z/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SOVIA-Z/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [2126-destroying-asteroids](https://github.com/SOVIA-Z/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SOVIA-Z/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -193,6 +195,7 @@
 | [0049-group-anagrams](https://github.com/SOVIA-Z/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [1340-jump-game-v](https://github.com/SOVIA-Z/leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SOVIA-Z/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [2126-destroying-asteroids](https://github.com/SOVIA-Z/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SOVIA-Z/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/SOVIA-Z/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Counting
