@@ -197,6 +197,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SOVIA-Z/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SOVIA-Z/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SOVIA-Z/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SOVIA-Z/leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,6 +251,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SOVIA-Z/leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3660-jump-game-ix](https://github.com/SOVIA-Z/leetcode/tree/main/3660-jump-game-ix/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SOVIA-Z/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SOVIA-Z/leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
