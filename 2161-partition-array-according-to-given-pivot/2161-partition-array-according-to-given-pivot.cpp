@@ -1,22 +1,44 @@
 class Solution {
 public:
     vector<int> pivotArray(vector<int>& nums, int pivot) {
-        vector<int> ans;
-        for(int i = 0; i<nums.size(); i++){
-            if(nums[i] < pivot){
-                ans.push_back({nums[i]});
+        // vector<int> ans;
+        // for(int i = 0; i<nums.size(); i++){
+        //     if(nums[i] < pivot){
+        //         ans.push_back({nums[i]});
+        //     }
+        // }
+        // for(int i = 0; i<nums.size(); i++){
+        //     if(nums[i] == pivot){
+        //         ans.push_back({nums[i]});
+        //     }
+        // }
+        // for(int i = 0; i<nums.size(); i++){
+        //     if(nums[i] > pivot){
+        //         ans.push_back({nums[i]});
+        //     }
+        // }
+        // return ans;
+
+        vector<int> res(nums.size(), 0);
+        int left = 0, right = nums.size() - 1;
+        for (int i = 0, j = nums.size() - 1; i < nums.size(); i++, j--) {
+            if (nums[i] < pivot) {
+                res[left] = nums[i];
+                left++;
+            }
+            
+            if (nums[j] > pivot) {
+                res[right] = nums[j];
+                right--;
             }
         }
-        for(int i = 0; i<nums.size(); i++){
-            if(nums[i] == pivot){
-                ans.push_back({nums[i]});
-            }
+        while (left <= right) {
+            res[left] = pivot;
+            left++;
         }
-        for(int i = 0; i<nums.size(); i++){
-            if(nums[i] > pivot){
-                ans.push_back({nums[i]});
-            }
-        }
-        return ans;
+        
+        return res;
+
+
     }
 };
