@@ -56,6 +56,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SOVIA-Z/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SOVIA-Z/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3660-jump-game-ix](https://github.com/SOVIA-Z/leetcode/tree/main/3660-jump-game-ix/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/SOVIA-Z/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +68,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SOVIA-Z/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SOVIA-Z/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SOVIA-Z/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/SOVIA-Z/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
