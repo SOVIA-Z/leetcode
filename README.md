@@ -31,6 +31,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SOVIA-Z/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SOVIA-Z/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SOVIA-Z/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/SOVIA-Z/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/SOVIA-Z/leetcode/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SOVIA-Z/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/SOVIA-Z/leetcode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
@@ -292,6 +293,7 @@
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/SOVIA-Z/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SOVIA-Z/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/SOVIA-Z/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/SOVIA-Z/leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/SOVIA-Z/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Linked List
