@@ -92,6 +92,7 @@
 | [0049-group-anagrams](https://github.com/SOVIA-Z/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0290-word-pattern](https://github.com/SOVIA-Z/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0443-string-compression](https://github.com/SOVIA-Z/leetcode/tree/main/0443-string-compression/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/SOVIA-Z/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SOVIA-Z/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1871-jump-game-vii](https://github.com/SOVIA-Z/leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SOVIA-Z/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -191,6 +192,7 @@
 | [0049-group-anagrams](https://github.com/SOVIA-Z/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0290-word-pattern](https://github.com/SOVIA-Z/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/SOVIA-Z/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/SOVIA-Z/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/SOVIA-Z/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1345-jump-game-iv](https://github.com/SOVIA-Z/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/SOVIA-Z/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -245,6 +247,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/SOVIA-Z/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/SOVIA-Z/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/SOVIA-Z/leetcode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SOVIA-Z/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
