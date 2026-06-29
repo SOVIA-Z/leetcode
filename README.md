@@ -40,6 +40,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SOVIA-Z/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1861-rotating-the-box](https://github.com/SOVIA-Z/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/SOVIA-Z/leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SOVIA-Z/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2126-destroying-asteroids](https://github.com/SOVIA-Z/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SOVIA-Z/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SOVIA-Z/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -100,6 +101,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/SOVIA-Z/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SOVIA-Z/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1871-jump-game-vii](https://github.com/SOVIA-Z/leetcode/tree/main/1871-jump-game-vii/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SOVIA-Z/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SOVIA-Z/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/SOVIA-Z/leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SOVIA-Z/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
