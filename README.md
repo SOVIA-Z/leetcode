@@ -99,6 +99,7 @@
 | [0290-word-pattern](https://github.com/SOVIA-Z/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0443-string-compression](https://github.com/SOVIA-Z/leetcode/tree/main/0443-string-compression/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/SOVIA-Z/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/SOVIA-Z/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SOVIA-Z/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1871-jump-game-vii](https://github.com/SOVIA-Z/leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SOVIA-Z/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -204,6 +205,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/SOVIA-Z/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/SOVIA-Z/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1345-jump-game-iv](https://github.com/SOVIA-Z/leetcode/tree/main/1345-jump-game-iv/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/SOVIA-Z/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/SOVIA-Z/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SOVIA-Z/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/SOVIA-Z/leetcode/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
@@ -348,6 +350,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/SOVIA-Z/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/SOVIA-Z/leetcode/tree/main/1871-jump-game-vii/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
