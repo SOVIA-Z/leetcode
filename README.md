@@ -53,6 +53,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SOVIA-Z/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SOVIA-Z/leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/SOVIA-Z/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SOVIA-Z/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SOVIA-Z/leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SOVIA-Z/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/SOVIA-Z/leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -92,6 +93,7 @@
 | [1861-rotating-the-box](https://github.com/SOVIA-Z/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/SOVIA-Z/leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/SOVIA-Z/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SOVIA-Z/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +169,7 @@
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SOVIA-Z/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/SOVIA-Z/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2540-minimum-common-value](https://github.com/SOVIA-Z/leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SOVIA-Z/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/SOVIA-Z/leetcode/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SOVIA-Z/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SOVIA-Z/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -186,6 +189,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SOVIA-Z/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [1306-jump-game-iii](https://github.com/SOVIA-Z/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/SOVIA-Z/leetcode/tree/main/1345-jump-game-iv/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SOVIA-Z/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SOVIA-Z/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -296,6 +300,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SOVIA-Z/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SOVIA-Z/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -380,4 +385,8 @@
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SOVIA-Z/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SOVIA-Z/leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SOVIA-Z/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
