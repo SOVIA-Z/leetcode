@@ -22,6 +22,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/SOVIA-Z/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/SOVIA-Z/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/SOVIA-Z/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/SOVIA-Z/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SOVIA-Z/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/SOVIA-Z/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/SOVIA-Z/leetcode/tree/main/1306-jump-game-iii/) | Medium |
@@ -262,6 +263,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/SOVIA-Z/leetcode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/SOVIA-Z/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/SOVIA-Z/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1340-jump-game-v](https://github.com/SOVIA-Z/leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SOVIA-Z/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/SOVIA-Z/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
