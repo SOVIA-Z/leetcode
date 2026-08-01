@@ -19,6 +19,7 @@
 | [0189-rotate-array](https://github.com/SOVIA-Z/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/SOVIA-Z/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/SOVIA-Z/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0486-predict-the-winner](https://github.com/SOVIA-Z/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/SOVIA-Z/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/SOVIA-Z/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOVIA-Z/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -146,6 +147,7 @@
 | [0002-add-two-numbers](https://github.com/SOVIA-Z/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/SOVIA-Z/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0050-powx-n](https://github.com/SOVIA-Z/leetcode/tree/main/0050-powx-n/) | Medium |
+| [0486-predict-the-winner](https://github.com/SOVIA-Z/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SOVIA-Z/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -279,6 +281,7 @@
 | [0048-rotate-image](https://github.com/SOVIA-Z/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/SOVIA-Z/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/SOVIA-Z/leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0486-predict-the-winner](https://github.com/SOVIA-Z/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOVIA-Z/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SOVIA-Z/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SOVIA-Z/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -377,6 +380,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/SOVIA-Z/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0486-predict-the-winner](https://github.com/SOVIA-Z/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/SOVIA-Z/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/SOVIA-Z/leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/SOVIA-Z/leetcode/tree/main/1871-jump-game-vii/) | Medium |
@@ -506,4 +510,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SOVIA-Z/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/SOVIA-Z/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
