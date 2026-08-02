@@ -23,6 +23,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/SOVIA-Z/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/SOVIA-Z/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOVIA-Z/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/SOVIA-Z/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/SOVIA-Z/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1260-shift-2d-grid](https://github.com/SOVIA-Z/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/SOVIA-Z/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -283,6 +284,7 @@
 | [0189-rotate-array](https://github.com/SOVIA-Z/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0486-predict-the-winner](https://github.com/SOVIA-Z/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOVIA-Z/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/SOVIA-Z/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SOVIA-Z/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SOVIA-Z/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/SOVIA-Z/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -381,6 +383,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/SOVIA-Z/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0486-predict-the-winner](https://github.com/SOVIA-Z/leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/SOVIA-Z/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/SOVIA-Z/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/SOVIA-Z/leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/SOVIA-Z/leetcode/tree/main/1871-jump-game-vii/) | Medium |
@@ -514,4 +517,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/SOVIA-Z/leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/SOVIA-Z/leetcode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
