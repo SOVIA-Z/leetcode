@@ -32,6 +32,7 @@
 | [1306-jump-game-iii](https://github.com/SOVIA-Z/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/SOVIA-Z/leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/SOVIA-Z/leetcode/tree/main/1345-jump-game-iv/) | Hard |
+| [1406-stone-game-iii](https://github.com/SOVIA-Z/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SOVIA-Z/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/SOVIA-Z/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SOVIA-Z/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -287,6 +288,7 @@
 | [0877-stone-game](https://github.com/SOVIA-Z/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SOVIA-Z/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SOVIA-Z/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1406-stone-game-iii](https://github.com/SOVIA-Z/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/SOVIA-Z/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/SOVIA-Z/leetcode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1840-maximum-building-height](https://github.com/SOVIA-Z/leetcode/tree/main/1840-maximum-building-height/) | Hard |
@@ -386,6 +388,7 @@
 | [0877-stone-game](https://github.com/SOVIA-Z/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/SOVIA-Z/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/SOVIA-Z/leetcode/tree/main/1340-jump-game-v/) | Hard |
+| [1406-stone-game-iii](https://github.com/SOVIA-Z/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1871-jump-game-vii](https://github.com/SOVIA-Z/leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SOVIA-Z/leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SOVIA-Z/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -518,4 +521,13 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/SOVIA-Z/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/SOVIA-Z/leetcode/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/SOVIA-Z/leetcode/tree/main/1406-stone-game-iii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/SOVIA-Z/leetcode/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/SOVIA-Z/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
