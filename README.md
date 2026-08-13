@@ -55,6 +55,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SOVIA-Z/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SOVIA-Z/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SOVIA-Z/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SOVIA-Z/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SOVIA-Z/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/SOVIA-Z/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2540-minimum-common-value](https://github.com/SOVIA-Z/leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -136,6 +137,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SOVIA-Z/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1871-jump-game-vii](https://github.com/SOVIA-Z/leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SOVIA-Z/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SOVIA-Z/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SOVIA-Z/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SOVIA-Z/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/SOVIA-Z/leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -483,6 +485,7 @@
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SOVIA-Z/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3161-block-placement-queries](https://github.com/SOVIA-Z/leetcode/tree/main/3161-block-placement-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SOVIA-Z/leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SOVIA-Z/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -573,4 +576,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/SOVIA-Z/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SOVIA-Z/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 <!---LeetCode Topics End-->
