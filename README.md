@@ -77,6 +77,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SOVIA-Z/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/SOVIA-Z/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SOVIA-Z/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/SOVIA-Z/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SOVIA-Z/leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SOVIA-Z/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SOVIA-Z/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -289,6 +290,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/SOVIA-Z/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SOVIA-Z/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/SOVIA-Z/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/SOVIA-Z/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SOVIA-Z/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SOVIA-Z/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SOVIA-Z/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
