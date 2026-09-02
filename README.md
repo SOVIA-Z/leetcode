@@ -103,6 +103,7 @@
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SOVIA-Z/leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/SOVIA-Z/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SOVIA-Z/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/SOVIA-Z/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -367,6 +368,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SOVIA-Z/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SOVIA-Z/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SOVIA-Z/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/SOVIA-Z/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
