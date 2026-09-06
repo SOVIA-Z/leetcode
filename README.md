@@ -150,6 +150,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/SOVIA-Z/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0115-distinct-subsequences](https://github.com/SOVIA-Z/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0290-word-pattern](https://github.com/SOVIA-Z/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0443-string-compression](https://github.com/SOVIA-Z/leetcode/tree/main/0443-string-compression/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SOVIA-Z/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -456,6 +457,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/SOVIA-Z/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0115-distinct-subsequences](https://github.com/SOVIA-Z/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0486-predict-the-winner](https://github.com/SOVIA-Z/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/SOVIA-Z/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/SOVIA-Z/leetcode/tree/main/1140-stone-game-ii/) | Medium |
