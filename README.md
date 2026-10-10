@@ -64,6 +64,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/SOVIA-Z/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SOVIA-Z/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SOVIA-Z/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SOVIA-Z/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/SOVIA-Z/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2540-minimum-common-value](https://github.com/SOVIA-Z/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/SOVIA-Z/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -126,6 +127,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SOVIA-Z/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/SOVIA-Z/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SOVIA-Z/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SOVIA-Z/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SOVIA-Z/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SOVIA-Z/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SOVIA-Z/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -256,6 +258,7 @@
 | [0938-range-sum-of-bst](https://github.com/SOVIA-Z/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SOVIA-Z/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/SOVIA-Z/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SOVIA-Z/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2540-minimum-common-value](https://github.com/SOVIA-Z/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SOVIA-Z/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SOVIA-Z/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -411,6 +414,7 @@
 | [2126-destroying-asteroids](https://github.com/SOVIA-Z/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SOVIA-Z/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SOVIA-Z/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SOVIA-Z/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/SOVIA-Z/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SOVIA-Z/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SOVIA-Z/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -473,6 +477,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SOVIA-Z/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SOVIA-Z/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SOVIA-Z/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SOVIA-Z/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SOVIA-Z/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
