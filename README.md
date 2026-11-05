@@ -36,6 +36,7 @@
 | [1306-jump-game-iii](https://github.com/SOVIA-Z/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/SOVIA-Z/leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/SOVIA-Z/leetcode/tree/main/1345-jump-game-iv/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SOVIA-Z/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/SOVIA-Z/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/SOVIA-Z/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SOVIA-Z/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -272,6 +273,7 @@
 | [0938-range-sum-of-bst](https://github.com/SOVIA-Z/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SOVIA-Z/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/SOVIA-Z/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SOVIA-Z/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SOVIA-Z/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2540-minimum-common-value](https://github.com/SOVIA-Z/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SOVIA-Z/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -425,6 +427,7 @@
 | [1096-brace-expansion-ii](https://github.com/SOVIA-Z/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/SOVIA-Z/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1340-jump-game-v](https://github.com/SOVIA-Z/leetcode/tree/main/1340-jump-game-v/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SOVIA-Z/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SOVIA-Z/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SOVIA-Z/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SOVIA-Z/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -485,6 +488,7 @@
 | [0189-rotate-array](https://github.com/SOVIA-Z/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/SOVIA-Z/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0443-string-compression](https://github.com/SOVIA-Z/leetcode/tree/main/0443-string-compression/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SOVIA-Z/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1861-rotating-the-box](https://github.com/SOVIA-Z/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SOVIA-Z/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SOVIA-Z/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
