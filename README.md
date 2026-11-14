@@ -94,6 +94,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SOVIA-Z/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/SOVIA-Z/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SOVIA-Z/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/SOVIA-Z/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SOVIA-Z/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SOVIA-Z/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SOVIA-Z/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -569,6 +570,7 @@
 | [1872-stone-game-viii](https://github.com/SOVIA-Z/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/SOVIA-Z/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/SOVIA-Z/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/SOVIA-Z/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SOVIA-Z/leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SOVIA-Z/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SOVIA-Z/leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -611,6 +613,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SOVIA-Z/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SOVIA-Z/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SOVIA-Z/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/SOVIA-Z/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SOVIA-Z/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
